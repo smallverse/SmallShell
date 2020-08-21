@@ -1,4 +1,4 @@
-module example.com/m/v2
+module go-service
 
 go 1.13
 
