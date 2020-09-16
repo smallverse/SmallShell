@@ -1,5 +1,6 @@
 package main
 
+// https://github.com/sciter-sdk/go-sciter
 import (
 	"log"
 

@@ -1,4 +1,5 @@
 #!/usr/bin/python3
+# https://github.com/sciter-sdk/pysciter
 import sciter
 
 if __name__ == '__main__':
