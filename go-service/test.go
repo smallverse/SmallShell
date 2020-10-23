@@ -1,6 +1,5 @@
 package main
 
-// https://github.com/sciter-sdk/go-sciter
 import (
 	"log"
 
@@ -22,17 +21,17 @@ func main() {
 		sciter.SW_CONTROLS|
 		sciter.SW_MAIN|
 		sciter.SW_ENABLE_DEBUG,
-		nil)
+		//给窗口设置个大小
+		&sciter.Rect{Left: 0, Top: 0, Right: 500, Bottom: 500})
 	if err != nil {
 		log.Fatal(err)
 	}
 	//加载文件
-	w.LoadFile("common-ui/index.html")
+	w.LoadFile("../common-ui/index.html")
 	//设置标题
-	w.SetTitle("111")
+	w.SetTitle("表单")
 	//显示窗口
 	w.Show()
 	//运行窗口，进入消息循环
 	w.Run()
-
 }

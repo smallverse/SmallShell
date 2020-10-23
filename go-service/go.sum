@@ -1,2 +1,6 @@
+github.com/lxn/win v0.0.0-20201021184640-9c48443b1f44 h1:5EnI2+vhRty/RE7v983dfdv0wKrDapW5xNHBMdDT4uY=
+github.com/lxn/win v0.0.0-20201021184640-9c48443b1f44/go.mod h1:KxxjdtRkfNoYDCUP5ryK7XJJNTnpC8atvtmTheChOtk=
 github.com/sciter-sdk/go-sciter v0.5.0 h1:A0gESvTFZR/yMFkWnQ4tFVUdsSchuShNGr25QodE8gQ=
 github.com/sciter-sdk/go-sciter v0.5.0/go.mod h1:myhbEunWE4R+6J7GxJsr4SU4q0OIMOEbWFJ2qYzIdPc=
+golang.org/x/sys v0.0.0-20201018230417-eeed37f84f13 h1:5jaG59Zhd+8ZXe8C+lgiAGqkOaZBruqrWclLkgAww34=
+golang.org/x/sys v0.0.0-20201018230417-eeed37f84f13/go.mod h1:h1NjWce9XRLGQEsW7wpKNCjG9DtNlClVuFLEZdDNbEs=
