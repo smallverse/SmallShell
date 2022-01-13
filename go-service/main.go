@@ -7,6 +7,7 @@ import (
 	"github.com/sciter-sdk/go-sciter/window"
 )
 
+//https://github.com/lunny/go-sciter/commit/2027f9bb3358fe9c5c51c560fe63e61133a80a29
 func main() {
 	//创建window窗口
 	//参数一表示创建窗口的样式
