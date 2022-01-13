@@ -1,0 +1,10 @@
+# github.com/lxn/win v0.0.0-20210218163916-a377121e959e
+## explicit
+github.com/lxn/win
+# github.com/sciter-sdk/go-sciter v0.5.0
+## explicit
+github.com/sciter-sdk/go-sciter
+github.com/sciter-sdk/go-sciter/window
+# golang.org/x/sys v0.0.0-20201018230417-eeed37f84f13
+golang.org/x/sys/internal/unsafeheader
+golang.org/x/sys/windows
